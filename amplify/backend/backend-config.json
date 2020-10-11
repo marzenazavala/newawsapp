@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "newawsapp13cc1d9a": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}

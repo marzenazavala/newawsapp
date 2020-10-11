@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-newawsapp-dev-03209-authRole",
+      "UnauthRoleArn": "arn:aws:iam::900481323912:role/amplify-newawsapp-dev-03209-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::900481323912:role/amplify-newawsapp-dev-03209-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-newawsapp-dev-03209-deployment",
+      "UnauthRoleName": "amplify-newawsapp-dev-03209-unauthRole",
+      "StackName": "amplify-newawsapp-dev-03209",
+      "StackId": "arn:aws:cloudformation:us-east-2:900481323912:stack/amplify-newawsapp-dev-03209/9b644830-0c11-11eb-9102-0a88c1bcd424",
+      "AmplifyAppId": "d3e5ryt3pvfd02"
+    },
+    "categories": {
+      "auth": {
+        "newawsapp13cc1d9a": {}
+      }
+    }
+  }
+}
